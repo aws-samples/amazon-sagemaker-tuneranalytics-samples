@@ -1,11 +1,6 @@
-## My Project
+## SageMaker Tuning Job Analytics demo
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+This is a demo of SageMaker analytics SDKs in the context of SageMaker Hyperparameter Tuning job result analysis.
 
 ## License
 
